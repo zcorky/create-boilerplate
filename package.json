@@ -25,14 +25,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webafe/create-boilerplate"
+    "url": "https://github.com/zcorky/create-boilerplate"
   },
-  "homepage": "https://github.com/webafe/create-boilerplate",
+  "homepage": "https://github.com/zcorky/create-boilerplate",
   "authors": [
     "Zero <tobewhatwewant@gmail.com> (https://github.com/whatwewant)"
   ],
   "bugs": {
-    "url": "https://github.com/webafe/create-boilerplate/issues"
+    "url": "https://github.com/zcorky/create-boilerplate/issues"
   },
   "files": [
     "cli.js",
